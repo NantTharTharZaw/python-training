@@ -90,4 +90,4 @@ print(np.concatenate((l,r),axis = 1))
 a = np.array([[1,2]])
 b = np.array([[3,4]])
 
-
+# cooand
