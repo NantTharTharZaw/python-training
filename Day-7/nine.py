@@ -88,6 +88,8 @@ print(np.concatenate((l,r),axis = 1))
 # stack
 
 a = np.array([[1,2]])
-b = np.array([[3,4]])
+b = np.array([[3,5]])
 
-# cooand
+print(np.stack((a,b),axis = 0))
+print(np.stack((a,b),axis = 1))
+
