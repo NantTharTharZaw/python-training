@@ -1,0 +1,7 @@
+,sale_id,date,branch,product,qty,unit_price
+0,1,2026-11-01,Yangon,Book,2,3000
+1,2,2026-11-01,Mandalay,Pen,5,500
+2,3,2026-11-02,Yangon,Pen,10,500
+3,4,2026-11-02,Mandalay,Book,1,3000
+4,5,2026-11-03,Yangon,Book,3,3000
+5,6,2026-11-03,Mandalay,Pen,4,500
